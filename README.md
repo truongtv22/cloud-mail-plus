@@ -1,6 +1,6 @@
 <p align="center">
     <img src="doc/demo/logo.png" width="80px" />
-    <h1 align="center">Cloud Mail Plus 1</h1>
+    <h1 align="center">Cloud Mail Plus</h1>
     <p align="center">Cloudflare Workers 邮箱服务增强版 — Cloudflare Email Service 原生发件 + 外部 API + D1 自动备份</p>
     <p align="center">
         简体中文 | <a href="/README-en.md">English</a>
